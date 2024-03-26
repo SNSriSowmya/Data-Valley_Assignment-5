@@ -6,7 +6,7 @@ public class DatabaseConnection {
 	private static final String DRIVER_NAME="com.mysql.cj.jdbc.Driver";
 	private static final String DATABASE_URL="jdbc:mysql://localhost:3306/departments";
 	private static final String DATABASE_USERNAME="root";
-	private static final String DATABASE_PASSWORD="MySQL@14";
+	private static final String DATABASE_PASSWORD="XXXXXXXX";
 	
 	public static Connection getDatabaseConnection()throws SQLException
 	{
